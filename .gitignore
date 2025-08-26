@@ -1,0 +1,6 @@
+﻿# Pastas de compilação do .NET
+bin/
+obj/
+
+# Pasta do Visual Studio
+.vs/
